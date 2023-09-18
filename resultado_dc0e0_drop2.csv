@@ -1,0 +1,7 @@
+GradientBoostingRegressor
+"{'random_state': 42, 'n_estimators': 100, 'min_samples_split': 20, 'min_samples_leaf': 1, 'max_depth': 15, 'learning_rate': 0.1}"
+2050.9114866256714
+1765.1352814575937
+5602.8243061998655
+0.515369637680265
+0.5384132741218444
